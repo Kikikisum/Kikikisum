@@ -7,6 +7,9 @@
 
 - 🌱 I’m currently learning **java and AI**
 
+- 🤔 I’m now a student of **FZU**.
+- 💬 I'm still a learner in **Computer Version**.
+
 - 📫 How to reach me **2313810210@qq.com**
 
 - ⚡ Fun fact **I'm Immortal in Valorant. EDG NB!**
