@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm YeYuYan</h1>
 <h3 align="center">A passionate backend developer from FZU and a researcher in 3D scene reconstruction</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kikikisum&label=Profile%20views&color=0e75b6&style=flat" alt="kikikisum" /> </p>
-
 
 - 🌱 I’m currently learning **java and AI**
 
